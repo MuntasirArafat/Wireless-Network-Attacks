@@ -15,3 +15,4 @@ Make sure you have the following prerequisites in place:
 1. **Disable Conflicting Services**
    ```bash
    sudo airmon-ng check kill
+This command is crucial to prevent any interference from other services.
