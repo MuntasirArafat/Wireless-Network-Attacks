@@ -21,9 +21,15 @@ ifconfig wlan0 up
 strat  attcak 
 
 
+airmon-ng start wlan0 <br/>
+airodump-ng wlan0 <br/>
+ifconfig <br/>
+
+
+if not work this method just diconnect the wifi anapter and just type
+
+
 airmon-ng start wlan0 
-airodump-ng wlan0 
-ifconfig
 
 
 attack router monitor router
